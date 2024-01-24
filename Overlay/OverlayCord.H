@@ -1,3 +1,7 @@
+//https://dose.lol/bbc
+//https://dose.lol/milfs
+
+
 #ifndef OVERLAYCORD_H
 #define OVERLAYCORD_H
 
